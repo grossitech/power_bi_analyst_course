@@ -9,13 +9,13 @@ Este repositório contém todos os projetos, desafios e anotações que desenvol
 
 ## 👩‍🏫 Instrutora
 
-A formação foi brilhantemente conduzida pela especialista em dados e educação, **Juliana Mascarenhas**.
+A formação foi conduzida pela especialista em dados e educação, **Juliana Mascarenhas**.
 
 * **LinkedIn:** [Juliana Mascarenhas](https://www.linkedin.com/in/juliana-mascarenhas-ds/)
 
-## 📚 Estrutura da Formação e Projetos Desenvolvidos
+## 📚 Estrutura da Formação
 
-A formação é dividida em 6 módulos, cada um com seus respectivos cursos e desafios práticos. Abaixo está a estrutura detalhada e os links para os projetos contidos neste repositório.
+A formação é dividida em 6 módulos, cada um com seus respectivos cursos e desafios práticos. Abaixo está a estrutura detalhada:
 
 ---
 
